@@ -6,7 +6,7 @@
 Welcome to django_cityloc_pkg's documentation!
 ==============================================
 
-.. automodule:: django_cityloc_pkg_cbowen216
+.. automodule:: django_cityloc_pkg
       :mambers:
 
 .. toctree::
